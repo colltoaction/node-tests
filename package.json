@@ -1,0 +1,24 @@
+{
+  "name": "node-tests",
+  "description": "sadfasfsaf",
+  "version": "0.0.1",
+  "author": "Martín Coll <martingonzalezcoll@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tinchou/node-tests.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tinchou/node-tests/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "should": "~2.0.0",
+    "mocha": "~1.13.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
